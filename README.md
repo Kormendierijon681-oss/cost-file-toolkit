@@ -10,6 +10,9 @@
 | **sgcfx-hongye-parse** | 免软件授权，本地解析宏业 `.SGCFX` 计价文件 → 分部分项清单/材料工料机/费用六段式 Excel，支持送审 vs 审核核减对比 | `clawhub install sgcfx-hongye-parse` |
 | **cost-file-doctor** | 计价文件诊断器：识别格式、判定加密、给可行路径；附分页重复表头清理器 | `clawhub install cost-file-doctor` |
 
+
+> 技术解析文章（知乎）：https://zhuanlan.zhihu.com/p/2097126128213410206
+
 不装 ClawHub CLI 也可以：把对应目录拷进你的 Agent 技能目录（`~/.workbuddy/skills/`）即可。
 
 ---
