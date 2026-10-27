@@ -2,7 +2,7 @@
   "name": "sgcfx-hongye-parse",
   "display_name": "宏业计价文件解析导出",
   "display_name_en": "Hongye SGCFX Cost File Parser",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "author": "Lxb",
   "license": "MIT",
   "category": "data-analysis",

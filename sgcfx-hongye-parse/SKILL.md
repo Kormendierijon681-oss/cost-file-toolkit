@@ -6,7 +6,7 @@ description: 本地解析宏业清单计价专家 .SGCFX 工程文件，免软�
 description_zh: 免安装宏业软件，本地解包 .SGCFX 计价工程文件，导出分部分项清单（含综合单价/合价/工程量）、材料工料机汇总、费用六段式汇总表，支持送审与审核两版逐条核减对比。全程勾稽验算：清单合价=单价×工程量、分册合计与文件内部合计行互证、造价链条 A+B+C=D/(D-A.1)×9%=E 三层校验。
 description_en: Parse Hongye SGCFX cost-engineering files locally without the vendor software. Export bill-of-quantities (unit price, amount, quantity), labor/material/machinery summaries and the six-segment fee breakdown, with multi-version (submitted vs reviewed) comparison. All outputs pass triple reconciliation checks.
 category: data-analysis
-version: 2.0.0
+version: 2.0.2
 author: Lxb
 ---
 
